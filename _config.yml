@@ -1,10 +1,10 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://rtov.github.io/
+baseurl: /
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: R2V::Reality To Virtuality
+email: contact@r2v.io
+description: ""
 
 
 # Team names, titles and social links
@@ -57,8 +57,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Pureun Bldg, 581 Gangnam-daero, Seocho-gu
+  - line: Seoul, Republic of Korea
 
 # Build settings
 markdown: kramdown
