@@ -1,30 +1,12 @@
-Agency Jekyll theme
-====================
+R2V Introduce Web Site
+======================
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+## Enable livereload
+Using [jekyll-livereload plugin](https://github.com/RobertDeRose/jekyll-livereload/)
 
-# How to use
+Execute in project root directory
+```
+bundle
+```
 
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+> To enable Livereload support you need to add an addition command line switch to the jekyll serve command: --livereload.
