@@ -1,15 +1,15 @@
-.navbar-default .navbar-brand img{
+nav .navbar-brand img{
     height: 80px;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
 }
 
-.navbar-default.navbar-shrink .navbar-brand img {
+nav.navbar-shrink .navbar-brand img {
     height: 60px;
 }
 
-#page-top > nav > div > div.navbar-header.page-scroll > a {
+nav > div > div.navbar-header.page-scroll > a {
     padding: 0;
 }
 
