@@ -1,8 +1,17 @@
 nav .navbar-brand img{
-    height: 80px;
+    height: 60px;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
+}
+
+@media(min-width:768px) {
+    nav .navbar-brand img{
+        height: 80px;
+        -webkit-transition: all .3s;
+        -moz-transition: all .3s;
+        transition: all .3s;
+    }
 }
 
 nav.navbar-shrink .navbar-brand img {
@@ -15,4 +24,9 @@ nav > div > div.navbar-header.page-scroll > a {
 
 #contact .email {
     color: black;
+}
+
+.wash {
+    background: rgba(0,0,0,.3);
+    height: 100%;
 }
