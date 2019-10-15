@@ -1,0 +1,13 @@
+---
+title: PointO
+subtitle: Total Mileage Platform
+layout: default
+modal-id: 2
+date: 2019-07-15
+img: pointo_thumbnail.png
+thumbnail: pointo_thumbnail.png
+alt: image-alt
+description: PointO is a unique total mileage platform using the most advanced blockchain platform, YGGDDRASH.
+website: 
+
+---

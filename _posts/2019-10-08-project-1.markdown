@@ -1,0 +1,12 @@
+---
+title: YGGDRASH
+subtitle: Blockchain Platform
+layout: default
+modal-id: 1
+date: 2018-03-01
+img: ygg_thumbnail.png
+thumbnail: ygg_thumbnail.png
+alt: image-alt
+description: YGGDRASH is the next generation multi-dimensional blockchain platform aiming to connect all real world assets and other blockchains. Every service regardless of its orientation can be implemented on YGGDRASH keeping its governance and consensus algorithm.
+website: https://www.yggdrash.io/
+---

@@ -1,0 +1,13 @@
+---
+title: MyCoinStory
+subtitle: Cryptocurrency Exchange
+layout: default
+modal-id: 5
+date: 2019-07-31
+img: mcs_thumbnail.png
+thumbnail: mcs_thumbnail.png
+alt: image-alt
+description: TBA
+website: 
+
+---
